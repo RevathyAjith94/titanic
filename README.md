@@ -1,3 +1,4 @@
+HEAD
 # Titanic Data Cleaning & Analysis
 
 ## Description
@@ -39,3 +40,7 @@ Performed data cleaning and exploratory analysis on the Titanic dataset using Py
 
 ### Final Status
 ![Done](screenshots/titanic_complete.png)
+
+# titanic
+"Data analysis on Titanic dataset using Python"
+ 
